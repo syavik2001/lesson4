@@ -1,0 +1,44 @@
+.block7, .block8 {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+}
+.style17 {
+    background: white;
+    color: rgb(123, 60, 60);
+    font-family: 'Odibee Sans', cursive;
+    text-align: right;
+}
+.style27 {
+    background: white;
+    color: rgb(74, 216, 210);
+    font-family: 'Libre Baskerville', serif;;
+    text-align: right;
+    margin-top: 1%;/*подправил*/
+}
+.style37 {
+    background: white;
+    color: rgb(237, 119, 165);
+    font-family: 'Indie Flower', cursive;
+    text-align: left;
+    margin-top: 1%;/*подправил*/
+}
+.style18 {
+    background: white;
+    color: rgb(247, 4, 238);
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+}
+.style28 {
+    background: white;
+    color: rgb(5, 247, 154);
+    font-family: 'Kanit', sans-serif;
+    text-align: right;
+    margin-top: 1%;/*подправил*/
+}
+.style38 {
+    background: white;
+    color: rgb(0, 10, 255);
+    font-family: 'Lacquer', sans-serif;
+    text-align: right;
+    margin-top: 1%;/*подправил*/
+}

@@ -1,0 +1,5 @@
+ ol {
+    list-style-position: inside;
+    margin-left: -38px;
+    font-family: 'Bowlby One SC';/*для абз 11-13*/
+}

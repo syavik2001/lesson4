@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html {
+    background: black;
+    font-family: Kanit;
+}   
+header {
+    width: calc(100% - 20px);
+    min-height: 200px;
+    padding: 10px;
+    font-size: 2rem;
+    color: white;
+}
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navbar {
+    margin-top: 20px;
+    text-align: center;
+}
+.navbar li {
+    display: inline-block;
+    width: 200px;
+}
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.navbar a:hover {
+    border-radius: 20px 5px;
+    background-color: #dd7e38;
+    color: #572725;
+}
+.abz {
+    color:bisque;
+    background: #522717;
+    font-size: 1.5rem;
+    text-indent: 20px;
+}
+.container { 
+    display: flex;
+    flex-wrap: wrap;
+}
+.square {
+    position: relative;
+    padding: 0;
+    display: block;
+    width: 25%;
+    height: 0;
+    padding-bottom: 25%;
+}
+.content {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+}
+footer {
+    width: calc(100% - 20px);
+    min-height: 60px;
+    padding: 10px;
+    font-size: 1.5rem;
+    color: white;
+}
+.foot {
+    margin-top: 10px;
+    text-align: center;
+}
+.foot li {
+    display: inline-block;
+    width: 200px;
+}
+.foot a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.foot a:hover {
+    border-radius: 20px 5px;
+    color: #fdc185;
+}

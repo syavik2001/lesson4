@@ -1,0 +1,10 @@
+ul {
+    color: red;
+    text-align: justify;
+    font-weight: 800; 
+    font-style: italic;
+    font-family: 'Permanent Marker';/*для абз 14-15*/
+}
+.last {
+    padding: 12px;
+}
